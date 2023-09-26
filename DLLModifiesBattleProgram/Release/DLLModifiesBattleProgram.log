@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DLLModifiesBattleProgram.vcxproj -> C:\Users\anton\Antonio\a_programming\3_personal_projects\DLLModifiesBattleProgram\Release\DLLModifiesBattleProgram.dll
